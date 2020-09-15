@@ -1,2 +1,2 @@
-# SilenceisnotAcceptablePortlandMaine.github.io
+#PortlandMaineSilenceisnotAcceptable.github.io
 Website for Stop the Silence in Portland Maine
